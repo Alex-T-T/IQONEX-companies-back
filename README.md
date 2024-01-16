@@ -1,6 +1,6 @@
 Backend part for IQONEX-companies-front
 
-Don't forget to check your enviroments
+Don't forget to check your environments
 SERVER_PORT = 
 RDS_HOSTNAME = 
 RDS_DB_NAME = 
