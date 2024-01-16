@@ -17,6 +17,7 @@ const getAllCompanies = async (
     const companies: Company[] = await companyRepository.find({
         skip,
         take: limitPerPage,
+        order: { companyname: 'ASC' },
     });
 
     const length = await companyRepository.count();
