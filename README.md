@@ -1,4 +1,4 @@
-Backend part for IQONEX-companies-back
+Backend part for IQONEX-companies-front
 
 Don't forget to check your enviroments
 SERVER_PORT = 
